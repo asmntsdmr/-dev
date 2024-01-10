@@ -1,2 +1,2 @@
-# -dev
+# Odev
 C++ Ödevi
